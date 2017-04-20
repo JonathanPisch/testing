@@ -1,0 +1,20 @@
+{
+    "name": "mah/testing",
+    "description": "This is my first composer file",
+    "type": "Apache-2.0",
+    "require": {
+        "catfan/medoo": "^1.2",
+        "monolog/monolog": "^1.22"
+    },
+    "require-dev":{
+      "phpunit/phpunit": "*"
+    },
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Jonathan Pisch",
+            "email": "jonte_pisch@hotmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
